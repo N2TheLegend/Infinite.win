@@ -26,7 +26,6 @@ local ScriptFile = GameMap[PlaceId]
 -- // Functions
 local function ShowError(Title, Body)
     LocalPlayer:Kick()
-    task.wait()
 
     local ErrorPrompt = CoreGui:FindFirstChild("RobloxPromptGui")
     if not ErrorPrompt then return end
