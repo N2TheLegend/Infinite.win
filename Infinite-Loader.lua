@@ -11,7 +11,7 @@ local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local GameMap = {
     -- // Baddies
-    [11158043705] = "Baddies-obfuscated.lua",
+    [87868857007174] = "Baddies-obfuscated.lua",
 
     -- // FF3 & FF3 Practice
     [81310542478972] = "Infinite-obfuscated.lua",
